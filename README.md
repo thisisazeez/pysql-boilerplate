@@ -1,7 +1,9 @@
 # pysql-boilerplate
 Python SQL with @iamkabiru
 
-** Learning mysql-connector with MR. @iamkabiru **
+**Learning mysql-connector with MR. @iamkabiru**
+
+<hr>
 
 # Contributors
 
